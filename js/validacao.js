@@ -55,8 +55,11 @@ const mensagensDeErro = {
     cidade: {
         valueMissing: 'O campo de cidade não pode estar vazio',
     },
-    estadp: {
+    estado: {
         valueMissing: 'O campo de estado não pode estar vazio',
+    },
+    preco: {
+        valueMissing: 'O campo de preço não pode estar vazio',
     }
 }
 
@@ -98,6 +101,11 @@ function maiorQue18(data) {
 }
 
 // FUNÇÕES CPF
+
+/*123 456 789 09
+let soma = (10 * 1) + (9 * 2) + (8 * 3) ... (2 * 9) - Calculo 1 digito verificador
+        (11 * 1) + (10 * 2) + (9 * 3) ... (2 * 0) - Calculo 2 digito verificador
+let digitoVerificador = 11 - (soma % 11)*/
 
 function validaCPF(input) {
     const cpfFormatado = input.value.replace(/\D/g, '') //Pegando tudo que não por digito e trocando por string vazia
@@ -164,12 +172,6 @@ function checaDigitoVerificador(cpf, multiplicador) {
 function confirmaDigito(soma) {
     return 11 - (soma % 11)
 }
-
-/*123 456 789 09
-let soma = (10 * 1) + (9 * 2) + (8 * 3) ... (2 * 9) - Calculo 1 digito verificador
-        (11 * 1) + (10 * 2) + (9 * 3) ... (2 * 0) - Calculo 2 digito verificador
-let digitoVerificador = 11 - (soma % 11)*/
-
 
 // FUNÇÕES API CEP
 
