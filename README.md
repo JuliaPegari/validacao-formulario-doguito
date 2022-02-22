@@ -1,21 +1,18 @@
-# Validação de Formulário - Doguito
+# Form Validation - Doguito
 
-> Projeto desenvolvido ao realizar o curso de "JavaScript na Web: Validação de Formulario e HTML5" na plataforma Alura. Foi utilizado o editor de código Visual Studio Code! 😊
+> Project developed when taking the course "JavaScript on the Web: Validation of Form and HTML5" on the Alura platform. The code editor Visual Studio Code was used!😊
 
-## 💻 Pré-requisitos
+## 💻 Tools
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Extensão Live Server (Visual Studio Code)
+* Visual Studio Code
+* Extension Live Server (Visual Studio Code)
 
-## 📫 Contribuindo para Validação de Formulário - Doguito
+## 📫 Contributing to Form Validation - Doguito
 
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
+1. Fork this repository.
+2. Create a branch: `git checkout -b <nome_branch>`.
+3. Make your changes and commit them: `git commit -m '<mensagem_commit>'`
+4. Push to the original branch: `git push origin <nome_do_projeto> / <local>`
+5. Create the pull request.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-
-[⬆ Voltar ao topo](#Validação de Formulário - Doguito)<br>
+Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
