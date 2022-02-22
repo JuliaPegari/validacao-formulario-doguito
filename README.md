@@ -1,12 +1,4 @@
-#Validação de Formulário - Doguito
-
-
-
-![GitHub repo size](https://img.shields.io/github/repo-size/JuliaPegari/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/JuliaPegari/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/JuliaPegari/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/JuliaPegari/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/JuliaPegari/README-template?style=for-the-badge)
+# Validação de Formulário - Doguito
 
 > Projeto desenvolvido ao realizar o curso de "JavaScript na Web: Validação de Formulario e HTML5" na plataforma Alura. Foi utilizado o editor de código Visual Studio Code! 😊
 
